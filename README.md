@@ -15,14 +15,6 @@ The dashboard tracks and visualizes critical HR indicators:
 
 ---
 
-## 🛠️ Technology Stack
-*   **Business Intelligence Tool:** Microsoft Power BI Desktop
-*   **Data Modeling:** Star Schema / Snowflake Schema
-*   **Logic Engine:** DAX (Data Analysis Expressions) for custom measures
-*   **Data Transformation:** Power Query (M Language)
-
----
-
 ## 💡 Key Insights Captured
 1.  **High-Risk Departments:** identified specific departments with higher-than-average attrition rates.
 2.  **Satisfaction Correlation:** Discovered the impact of job involvement and work-life balance on employee longevity.
